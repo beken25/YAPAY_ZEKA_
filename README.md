@@ -16,7 +16,6 @@ Bu proje, Gümüşhane Üniversitesi Yapay Zeka dersi kapsamında, şarkı söz�
 
 * **veri\_seti\_50mb.csv** dosyası, yaklaşık 50 MB büyüklüğünde, şarkı sözlerine benzer şekilde yapay olarak üretilmiş tematik metinler içermektedir.
 * Gerçek veri çekme girişimleri Genius API ve Selenium yöntemleriyle denenmiş, ancak teknik kısıtlamalar nedeniyle bu veri yapay olarak oluşturulmuştur.
-* **Referans alınan veri yapısı:** [Steam Reviews Dataset (Kaggle)](https://www.kaggle.com/datasets/luthfim/steam-reviews-dataset)
 
 ---
 
