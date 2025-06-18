@@ -1,0 +1,17 @@
+model_adi,sg,window,dim,egitim_suresi_saniye,boyut_kb
+lemmatized_cbow_win2_dim100,0,2,100,bilinmiyor,15.0
+lemmatized_cbow_win2_dim300,0,2,300,bilinmiyor,33.8
+lemmatized_cbow_win4_dim100,0,4,100,bilinmiyor,15.0
+lemmatized_cbow_win4_dim300,0,4,300,bilinmiyor,33.8
+lemmatized_skipgram_win2_dim100,1,2,100,bilinmiyor,15.0
+lemmatized_skipgram_win2_dim300,1,2,300,bilinmiyor,33.8
+lemmatized_skipgram_win4_dim100,1,4,100,bilinmiyor,15.0
+lemmatized_skipgram_win4_dim300,1,4,300,bilinmiyor,33.8
+stemmed_cbow_win2_dim100,0,2,100,bilinmiyor,15.0
+stemmed_cbow_win2_dim300,0,2,300,bilinmiyor,33.8
+stemmed_cbow_win4_dim100,0,4,100,bilinmiyor,15.0
+stemmed_cbow_win4_dim300,0,4,300,bilinmiyor,33.8
+stemmed_skipgram_win2_dim100,1,2,100,bilinmiyor,15.0
+stemmed_skipgram_win2_dim300,1,2,300,bilinmiyor,33.8
+stemmed_skipgram_win4_dim100,1,4,100,bilinmiyor,15.0
+stemmed_skipgram_win4_dim300,1,4,300,bilinmiyor,33.8

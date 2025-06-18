@@ -1,0 +1,81 @@
+şarkı,skor,model
+Yalnızlık Senfonisi,0.9980734586715698,lemmatized_cbow_win2_dim100
+Aşk Gitti Bizden,0.9980734586715698,lemmatized_cbow_win2_dim100
+Kara Sevda,0.9980734586715698,lemmatized_cbow_win2_dim100
+Ağla Kalbim,0.9980734586715698,lemmatized_cbow_win2_dim100
+Ağla Kalbim,0.9980734586715698,lemmatized_cbow_win2_dim100
+Haydi Gel İçelim,0.999116837978363,lemmatized_cbow_win2_dim300
+Sorma,0.999116837978363,lemmatized_cbow_win2_dim300
+Yalnızlık Senfonisi,0.9991167783737183,lemmatized_cbow_win2_dim300
+Kara Sevda,0.9991167783737183,lemmatized_cbow_win2_dim300
+Yalnızlık Senfonisi,0.9991167783737183,lemmatized_cbow_win2_dim300
+Kara Sevda,0.9977309107780457,lemmatized_cbow_win4_dim100
+Kara Sevda,0.9977309107780457,lemmatized_cbow_win4_dim100
+Aşk Gitti Bizden,0.9977309107780457,lemmatized_cbow_win4_dim100
+İstanbul Hatırası,0.9977309107780457,lemmatized_cbow_win4_dim100
+Rüya,0.9977309107780457,lemmatized_cbow_win4_dim100
+İstanbul Hatırası,0.9989703893661499,lemmatized_cbow_win4_dim300
+Gel Yanıma,0.9989703893661499,lemmatized_cbow_win4_dim300
+Rüya,0.9989703893661499,lemmatized_cbow_win4_dim300
+Gel Yanıma,0.9989703893661499,lemmatized_cbow_win4_dim300
+Gel Yanıma,0.9989703893661499,lemmatized_cbow_win4_dim300
+İstanbul Hatırası,0.9925847053527832,lemmatized_skipgram_win2_dim100
+Sorma,0.9925847053527832,lemmatized_skipgram_win2_dim100
+Yalnızlık Senfonisi,0.9925847053527832,lemmatized_skipgram_win2_dim100
+Gibi,0.9925847053527832,lemmatized_skipgram_win2_dim100
+Gel Yanıma,0.9925847053527832,lemmatized_skipgram_win2_dim100
+Kara Sevda,0.9978002905845642,lemmatized_skipgram_win2_dim300
+Kara Sevda,0.9978002905845642,lemmatized_skipgram_win2_dim300
+Rüya,0.9978002905845642,lemmatized_skipgram_win2_dim300
+Ben Bir Şarkıyım,0.9978002905845642,lemmatized_skipgram_win2_dim300
+Yalnızlık Senfonisi,0.9978002905845642,lemmatized_skipgram_win2_dim300
+Ben Bir Şarkıyım,0.988149106502533,lemmatized_skipgram_win4_dim100
+Bir Derdim Var,0.988149106502533,lemmatized_skipgram_win4_dim100
+Yalnızlık Senfonisi,0.9881490468978882,lemmatized_skipgram_win4_dim100
+Kara Sevda,0.9881490468978882,lemmatized_skipgram_win4_dim100
+Haydi Gel İçelim,0.9881490468978882,lemmatized_skipgram_win4_dim100
+İstanbul Hatırası,0.9904654622077942,lemmatized_skipgram_win4_dim300
+Aşk Gitti Bizden,0.9904654622077942,lemmatized_skipgram_win4_dim300
+Yalnızlık Senfonisi,0.9904654622077942,lemmatized_skipgram_win4_dim300
+Ağla Kalbim,0.9904654622077942,lemmatized_skipgram_win4_dim300
+Gel Yanıma,0.9904654622077942,lemmatized_skipgram_win4_dim300
+Yalnızlık Senfonisi,0.0,stemmed_cbow_win2_dim100
+Haydi Gel İçelim,0.0,stemmed_cbow_win2_dim100
+Gel Yanıma,0.0,stemmed_cbow_win2_dim100
+Aşk Gitti Bizden,0.0,stemmed_cbow_win2_dim100
+Ben Bir Şarkıyım,0.0,stemmed_cbow_win2_dim100
+Yalnızlık Senfonisi,0.0,stemmed_cbow_win2_dim300
+Haydi Gel İçelim,0.0,stemmed_cbow_win2_dim300
+Gel Yanıma,0.0,stemmed_cbow_win2_dim300
+Aşk Gitti Bizden,0.0,stemmed_cbow_win2_dim300
+Ben Bir Şarkıyım,0.0,stemmed_cbow_win2_dim300
+Yalnızlık Senfonisi,0.0,stemmed_cbow_win4_dim100
+Haydi Gel İçelim,0.0,stemmed_cbow_win4_dim100
+Gel Yanıma,0.0,stemmed_cbow_win4_dim100
+Aşk Gitti Bizden,0.0,stemmed_cbow_win4_dim100
+Ben Bir Şarkıyım,0.0,stemmed_cbow_win4_dim100
+Yalnızlık Senfonisi,0.0,stemmed_cbow_win4_dim300
+Haydi Gel İçelim,0.0,stemmed_cbow_win4_dim300
+Gel Yanıma,0.0,stemmed_cbow_win4_dim300
+Aşk Gitti Bizden,0.0,stemmed_cbow_win4_dim300
+Ben Bir Şarkıyım,0.0,stemmed_cbow_win4_dim300
+Yalnızlık Senfonisi,0.0,stemmed_skipgram_win2_dim100
+Haydi Gel İçelim,0.0,stemmed_skipgram_win2_dim100
+Gel Yanıma,0.0,stemmed_skipgram_win2_dim100
+Aşk Gitti Bizden,0.0,stemmed_skipgram_win2_dim100
+Ben Bir Şarkıyım,0.0,stemmed_skipgram_win2_dim100
+Yalnızlık Senfonisi,0.0,stemmed_skipgram_win2_dim300
+Haydi Gel İçelim,0.0,stemmed_skipgram_win2_dim300
+Gel Yanıma,0.0,stemmed_skipgram_win2_dim300
+Aşk Gitti Bizden,0.0,stemmed_skipgram_win2_dim300
+Ben Bir Şarkıyım,0.0,stemmed_skipgram_win2_dim300
+Yalnızlık Senfonisi,0.0,stemmed_skipgram_win4_dim100
+Haydi Gel İçelim,0.0,stemmed_skipgram_win4_dim100
+Gel Yanıma,0.0,stemmed_skipgram_win4_dim100
+Aşk Gitti Bizden,0.0,stemmed_skipgram_win4_dim100
+Ben Bir Şarkıyım,0.0,stemmed_skipgram_win4_dim100
+Yalnızlık Senfonisi,0.0,stemmed_skipgram_win4_dim300
+Haydi Gel İçelim,0.0,stemmed_skipgram_win4_dim300
+Gel Yanıma,0.0,stemmed_skipgram_win4_dim300
+Aşk Gitti Bizden,0.0,stemmed_skipgram_win4_dim300
+Ben Bir Şarkıyım,0.0,stemmed_skipgram_win4_dim300

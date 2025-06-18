@@ -1,0 +1,17 @@
+model,vector_size,window,sg,vocab_size
+lemmatized_cbow_win2_dim100,100,2,0,12
+lemmatized_cbow_win2_dim300,300,2,0,12
+lemmatized_cbow_win4_dim100,100,4,0,12
+lemmatized_cbow_win4_dim300,300,4,0,12
+lemmatized_skipgram_win2_dim100,100,2,1,12
+lemmatized_skipgram_win2_dim300,300,2,1,12
+lemmatized_skipgram_win4_dim100,100,4,1,12
+lemmatized_skipgram_win4_dim300,300,4,1,12
+stemmed_cbow_win2_dim100,100,2,0,12
+stemmed_cbow_win2_dim300,300,2,0,12
+stemmed_cbow_win4_dim100,100,4,0,12
+stemmed_cbow_win4_dim300,300,4,0,12
+stemmed_skipgram_win2_dim100,100,2,1,12
+stemmed_skipgram_win2_dim300,300,2,1,12
+stemmed_skipgram_win4_dim100,100,4,1,12
+stemmed_skipgram_win4_dim300,300,4,1,12
